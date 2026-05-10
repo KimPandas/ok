@@ -1,4 +1,4 @@
-# 📚 판다스 강의 자료
+## 📚 판다스 강의 자료
 
 🔗 [깃허브 링크](https://github.com/KimPandas/ss/blob/main/ipynb)
 
@@ -18,13 +18,13 @@
 
 ---
 
-# 📊 시각화
+## 📊 시각화
 
 * **[파이썬 시각화](https://github.com/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 
 ---
 
-# 📊 Case Study 및 EDA
+## 📊 Case Study 및 EDA
 
 * **[머니볼](https://github.com/KimPandas/ss/blob/main/ipynb/%EB%A8%B8%EB%8B%88%EB%B3%BC.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%EB%A8%B8%EB%8B%88%EB%B3%BC.ipynb)
 * **[평점 분석](https://github.com/KimPandas/ss/blob/main/ipynb/%EC%8B%9D%EB%8B%B9_%ED%8F%89%EC%A0%90_%EA%B2%B0%EA%B3%BC_%EB%B6%84%EC%84%9D.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%EC%8B%9D%EB%8B%B9_%ED%8F%89%EC%A0%90_%EA%B2%B0%EA%B3%BC_%EB%B6%84%EC%84%9D.ipynb)

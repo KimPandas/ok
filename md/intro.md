@@ -24,7 +24,7 @@
 
 ## 3. 넘파이(NumPy) vs 판다스(Pandas)
 
-<img src=https://i.postimg.cc/02r05yLw/deiteo-bunseog-modyul-jonglyu2.jpg>
+<img src=https://i.postimg.cc/02r05yLw/deiteo-bunseog-modyul-jonglyu2.jpg, width=600>
 
 데이터를 처리하는 양대 산맥인 두 모듈은 비슷해 보이지만 사용 목적이 다름.
 

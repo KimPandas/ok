@@ -42,7 +42,7 @@ df = pd.read_csv(url)
 import pandas as pd
 
 data = [['a1', 'A/B', 'b1'], ['a2', 'B', 'b2'], ['a3', 'A/B/C', 'b3']]
-df = pd.DataFrame(data, columns=['col1', 'col2', 'col3'])
+df1 = pd.DataFrame(data, columns=['col1', 'col2', 'col3'])
 ```
 
 ## **2단계: 솔루션 탐색 (AI 활용)**
@@ -52,7 +52,7 @@ df = pd.DataFrame(data, columns=['col1', 'col2', 'col3'])
 ```python
 # AI의 답변
 df_output = pd.concat(
-    [df['col1'], df['col2'].str.get_dummies(sep='/'), df['col3']], 
+    [df1['col1'], df1['col2'].str.get_dummies(sep='/'), df1['col3']], 
     axis=1
 )
 ```

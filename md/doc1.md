@@ -22,7 +22,10 @@
 > 원시 데이터로 피벗 테이블을 생성하는 함수
 
 **`pivot_table` 함수의 주요 매개변수와 인수, 기본값**
-`df.pivot_table(values=None, index=None, columns=None, aggfunc='mean')`
+
+```python
+df.pivot_table(values=None, index=None, columns=None, aggfunc='mean')
+```
 
 * **`values`**: 집계할 대상 열을 지정합니다. (예: 점수 열 집계)
 * **`index`**: 행으로 구분할 그룹을 나누는 기준 열을 지정합니다. (예: 반별 구분)

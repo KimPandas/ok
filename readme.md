@@ -33,6 +33,14 @@
 
 ---
 
+## 📊 문제 해결 방법 (with AI)
+
+* [문제](https://github.com/KimPandas/ok/blob/main/md/question.md)
+* [해결 방법](https://github.com/KimPandas/ok/blob/main/md/sol1.md)
+
+
+
+---
 ## 📊 시각화
 
 * **[파이썬 시각화](https://github.com/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)

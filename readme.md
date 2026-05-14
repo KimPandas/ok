@@ -6,11 +6,11 @@
 
 ## 📚 데이터 분석 입문
 
-🔗 [데이터 분석 입문](https://github.com/KimPandas/ok/blob/main/md/intro.md)
+- [데이터 분석 입문](https://github.com/KimPandas/ok/blob/main/md/intro.md)
 
-🔗 [데이터 분석 패키지 버전 안내](https://github.com/KimPandas/ok/blob/main/md/version.md)
+- [데이터 분석 패키지 버전 안내](https://github.com/KimPandas/ok/blob/main/md/version.md)
 
-🔗 [데이터 분석 패키지 설치 안내](https://github.com/KimPandas/ok/blob/main/md/install.md)
+- [데이터 분석 패키지 설치 안내](https://github.com/KimPandas/ok/blob/main/md/install.md)
 
 ---
 

@@ -10,6 +10,8 @@
 
 🔗 [데이터 분석 패키지 버전 안내](https://github.com/KimPandas/ok/blob/main/md/version.md)
 
+🔗 [데이터 분석 패키지 설치 안내](https://github.com/KimPandas/ok/blob/main/md/install.md)
+
 ---
 
 ## 📚 판다스 강의 자료

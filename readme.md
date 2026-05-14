@@ -1,6 +1,6 @@
 ## 📚 기초 파이썬 강의 자료
 
-🔗 [깃허브 링크](https://github.com/KimPandas/python/blob/main/ipynb/0_%EC%A0%84%EC%B2%B4_%EB%82%B4%EC%9A%A9.ipynb)
+🔗 [ipynb 파일 링크](https://github.com/KimPandas/python/blob/main/ipynb/0_%EC%A0%84%EC%B2%B4_%EB%82%B4%EC%9A%A9.ipynb)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 📚 판다스 강의 자료
 
-🔗 [깃허브 링크](https://github.com/KimPandas/ss/blob/main/ipynb)
+🔗 [ipynb 폴더 링크](https://github.com/KimPandas/ss/blob/main/ipynb)
 
 * **[Chapter 1. 판다스로 데이터 다루기 체험](https://github.com/KimPandas/ss/blob/main/ipynb/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
     > **Note:** Chapter 2는 기초 파이썬 과정입니다.

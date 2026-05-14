@@ -117,9 +117,9 @@ jupyter notebook
 
 1. 터미널(CMD)을 열고 아래 명령어를 **전체 복사**하여 붙여 넣으세요. 라이브러리 간의 의존성을 고려하여 최적의 순서와 버전으로 구성되었습니다.
 
-   ```bash
-   pip install numpy==1.26.4 pandas==2.1.4 matplotlib==3.8.2 seaborn==0.13.1 scikit-learn==1.4.0 openpyxl xlrd
-   ```
+```bash
+pip install numpy==1.26.4 pandas==2.1.4 matplotlib==3.8.2 seaborn==0.13.1 scikit-learn==1.4.0 openpyxl xlrd
+```
 
 2. 설치되는 라이브러리 상세 설명
 

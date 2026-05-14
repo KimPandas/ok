@@ -33,4 +33,5 @@
 
 > **💡 설치 팁**
 > 터미널(CMD)에서 아래 명령어를 사용하여 한 번에 설치할 수 있습니다:
+> 
 > `pip install numpy==1.26.4 pandas==2.1.4 matplotlib==3.8.2 seaborn==0.13.1 scikit-learn==1.4.0 openpyxl`

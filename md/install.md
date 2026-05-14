@@ -36,7 +36,7 @@
 3. **예시:**
 <img src=https://i.postimg.cc/bJ3bCpbP/image.png, width=600>
 
-#### **1. 명령 프롬프트(CMD) 또는 PowerShell을 새로 엽니다. (이미 열려있던 창은 닫아야 합니다.)**
+#### **1. 0번에 따라 명령 프롬프트(CMD) 또는 PowerShell을 새로 엽니다. (이미 열려있던 창은 닫아야 합니다.)**
 
 #### 2. 아래 명령어를 입력합니다.
 

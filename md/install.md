@@ -46,7 +46,7 @@ python --version
 
 <img src=https://i.postimg.cc/7PNDRb5v/image.png, width=600>
 
-Python 3.11.9라면 제대로 설치되었습니다.
+Python 3.11.9를 리턴한다면 제대로 설치되었습니다.
 
 ---
 

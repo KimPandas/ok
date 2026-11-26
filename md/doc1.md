@@ -55,9 +55,9 @@ df.pivot_table(values=None, index=None, columns=None, aggfunc='mean')
 
 ---
 
-### **4. 생성형 AI에게 공식 문서 요약본 요구**
+### **4. 생성형 AI에게 공식 문서의 핵심 내용 요약 요청**
 
 > 프롬프트
-> 판다스 pivot_table 함수의 핵심 매개변수와 인수를 설명하라.
+> 판다스 pivot_table 함수의 핵심 매개변수와 인수를 설명해 줘.
 
 

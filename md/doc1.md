@@ -53,4 +53,11 @@ df.pivot_table(values=None, index=None, columns=None, aggfunc='mean')
 
 <img src=https://i.postimg.cc/2ym1M2hP/image.png, width=600>
 
+---
+
+### **4. 생성형 AI에게 공식 문서 요약본 요구**
+
+> 프롬프트
+> 판다스 pivot_table 함수의 핵심 매개변수와 인수를 설명하라.
+
 

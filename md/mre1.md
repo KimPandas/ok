@@ -25,7 +25,7 @@
 <img src=https://i.postimg.cc/Gh1ggbw3/image.png, width=600>
 
 
-코딩에서는 MRE를 코드로 작성해, 실행해 봅니다.
+코딩에서는 **MRE**(minimal and reproducible example)를 코드로 작성해, 실행해 봅니다.
 
 ```python
 import pandas as pd

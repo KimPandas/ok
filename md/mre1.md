@@ -6,9 +6,9 @@
 
 ---
 
-## 🧩 실전 퀴즈 1: 문자열과 숫자가 섞여 있을 때 어떻게 정렬될까?
+## 🧩 퀴즈 1: 문자열과 숫자가 섞여 있을 때 어떻게 정렬될까?
 
-<img src=https://i.postimg.cc/MKd8vQM3/image-d1083e49.jpg, width=600>
+<img src=https://i.postimg.cc/W11FsJLC/image.png, width=600>
 
 판다스 `DataFrame`이나 `Series`의 한 컬럼에 문자열(`str`)과 숫자(`int`/`float`)가 공존할 때, `sort_values` 함수로 정렬을 수행하면 어떤 결과가 나올까요?
 
